@@ -90,7 +90,10 @@ btn2.addEventListener('click',function(e)
 
 btn3.addEventListener('dblclick',function(e)
 {
-	alert('dupli klik emulacija');
+	for (var i=5; i > 0; i--) {
+	    alert('dupli klik emulacija: ' + i.toString() );	
+	};
+	
 });
 
 

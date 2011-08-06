@@ -6,7 +6,7 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.019683 seconds on emulator to get ready
+[DEBUG] waited 0.013706 seconds on emulator to get ready
 [DEBUG] bring.out.ba installed? True
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying project resources..
@@ -27,5 +27,6 @@ Logfile initialized
 [INFO] Re-launching application ... hello_world_android_titanium
 [INFO] Launching application ... hello_world_android_titanium
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=bring.out.ba/.Hello_world_android_titaniumActivity }
+Warning: Activity not started, its current task has been brought to the front
 
 [INFO] Android Emulator has exited
