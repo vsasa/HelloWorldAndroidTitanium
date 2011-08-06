@@ -93,14 +93,12 @@ btn3.addEventListener('dblclick',function(e)
 	for (var i=5; i > 0; i--) {
 	    alert('dupli klik emulacija: ' + i.toString() );	
 	};
-	
 });
 
 
 win2.add(label2);
 win2.add(btn2);
 win2.add(btn3);
-
 
 //
 //  add tabs

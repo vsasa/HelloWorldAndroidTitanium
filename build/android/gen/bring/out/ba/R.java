@@ -20,7 +20,7 @@ public final class R {
         public static final int facebook_login_wide_down=0x7f020006;
         public static final int facebook_logout=0x7f020007;
         public static final int facebook_logout_down=0x7f020008;
-    }
+   }
     public static final class layout {
         public static final int titanium_tabgroup=0x7f030000;
     }

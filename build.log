@@ -27,6 +27,4 @@ Logfile initialized
 [INFO] Re-launching application ... hello_world_android_titanium
 [INFO] Launching application ... hello_world_android_titanium
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=bring.out.ba/.Hello_world_android_titaniumActivity }
-Warning: Activity not started, its current task has been brought to the front
-
 [INFO] Android Emulator has exited
